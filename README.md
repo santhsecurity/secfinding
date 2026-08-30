@@ -113,7 +113,7 @@ Pull requests are welcome. There is no such thing as a perfect crate. If you fin
 
 ## License
 
-MIT. Copyright 2026 CORUM COLLECTIVE LLC.
+MIT. Copyright 2026 Santh.
 
 [![crates.io](https://img.shields.io/crates/v/secfinding.svg)](https://crates.io/crates/secfinding)
 [![docs.rs](https://docs.rs/secfinding/badge.svg)](https://docs.rs/secfinding)
